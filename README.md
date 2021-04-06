@@ -1,2 +1,2 @@
 # jenkins-dev
-my jenkins
+my jenkins and git
